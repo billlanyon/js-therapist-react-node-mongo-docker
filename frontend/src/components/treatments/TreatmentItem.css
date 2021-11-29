@@ -1,0 +1,12 @@
+.treatment-item {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid #801e00;
+  color: white;
+  background-color: #801e00;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 30px;
+  cursor: pointer;
+}
