@@ -27,7 +27,7 @@ function TreatmentInput(props) {
     <section id='treatment-input'>
       <Card>
         <form onSubmit={treatmentSubmitHandler}>
-          <label htmlFor='text'>New Treatment</label>
+          <label htmlFor='text'><h2>New Treatment</h2></label>
           <input
             type='text'
             id='text'
